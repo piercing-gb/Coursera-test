@@ -1,0 +1,51 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(228, 218, 218);
+}
+header {
+    background-color: #0f0e0f;
+    color: white;
+    
+    
+}
+h1 span {
+    color: aqua;
+}
+.container {
+    text-align: center;
+    position: relative;
+    height: 150px;
+}
+.box div {
+    padding: 10px;
+}
+.box p {
+    margin-top: 30px;
+}
+#section {
+    background-color: white;
+    height: 150px;
+    margin: 10px auto;
+    align-content: center;
+    padding: 15px;
+    width: 98%;
+    position: relative;
+    top: 10px;
+    border-radius: 5px;
+}
+.boxes {
+    line-height: 30px;
+}
+section p {
+    position: relative;
+    top: 10px;
+}
+a {
+    text-decoration: none;
+    color: aqua;
+}

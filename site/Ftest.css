@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 10px;
+}
+header {
+    color: white;
+    font-family: 'Time New Roman', sans-serif;
+
+}
+#container {
+    background-color: blueviolet;
+    width: 95%;
+    margin: 25px auto;
+    height: 300px;
+    text-align: center;
+    align-content: center;
+}
+#about {
+    margin: 100px 20%;
+    text-align: center;
+}
+#box {
+    width: 95%;
+    min-height: 500px;
+    background-color: #f8f8f8;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    position: static;
+    bottom: 50px;
+}
+#box h2 {
+    padding: 40px;
+}
+.box {
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100px;
+    align-content: center;
+    border-radius: 10px;
+}
